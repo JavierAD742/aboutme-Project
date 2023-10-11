@@ -1,0 +1,28 @@
+
+body {
+    background-color: #070113;
+}
+
+h1 {
+   color:#FBFBFF;
+   font-size: 4em ;
+   font-family: 'Pixelify Sans', cursive;
+   text-align: center;
+      
+}
+
+p {
+    color:#FBFBFF;
+    font-size: 1.2em;
+    font-family: 'VT323', monospace;
+}
+
+img {
+    border: 5px solid white;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
